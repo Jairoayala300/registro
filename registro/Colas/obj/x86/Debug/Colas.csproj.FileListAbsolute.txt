@@ -1,0 +1,11 @@
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\bin\Debug\Colas.exe
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\bin\Debug\Colas.pdb
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\Colas.Form1.resources
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\Colas.Properties.Resources.resources
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\Colas.exe
+C:\Users\PC9\documents\visual studio 2010\Projects\Colas\Colas\obj\x86\Debug\Colas.pdb
+F:\Listas\Colas\obj\x86\Debug\Colas.exe
+F:\Listas\Colas\obj\x86\Debug\Colas.pdb

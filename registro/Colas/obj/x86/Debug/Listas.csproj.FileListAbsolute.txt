@@ -1,0 +1,21 @@
+F:\Listas\Colas\bin\Debug\Listas.exe
+F:\Listas\Colas\bin\Debug\Listas.pdb
+F:\Listas\Colas\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Listas\Colas\obj\x86\Debug\Listas.Form1.resources
+F:\Listas\Colas\obj\x86\Debug\Listas.Properties.Resources.resources
+F:\Listas\Colas\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Listas\Colas\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Listas\Colas\obj\x86\Debug\Listas.exe
+F:\Listas\Colas\obj\x86\Debug\Listas.pdb
+H:\Listas\Colas\obj\x86\Debug\Listas.exe
+H:\Listas\Colas\obj\x86\Debug\Listas.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\bin\Debug\Listas.exe.config
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\bin\Debug\Listas.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\bin\Debug\Listas.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.csproj.AssemblyReference.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.Form1.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.Properties.Resources.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.csproj.GenerateResource.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Listas\Colas\obj\x86\Debug\Listas.pdb
